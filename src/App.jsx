@@ -21,11 +21,11 @@ function App() {
         {/* Define a route that will have descendant routes */}
         <Route path="Portfolio-React/contact/*" element={<Contact />} />
       </Routes>
-      <footer>
-    <div class="align-bottom">
-      <p>&copy; Powered by Github. With edX Front-End Web Development program.</p>
-    </div>
-  </footer>
+      <footer className="footer">
+        <div className="align-bottom">
+          <p>&copy; Powered by Github. With edX Front-End Web Development program.</p>
+        </div>
+      </footer>
     </Router>
   );
 }

@@ -5,38 +5,38 @@ import ContactForm from './ContactForm';
 
 function Contact(props) {
   return (
-    <div>
+    <div className="contact">
       <h1>Contact Me</h1>
-      <p>
-      <section class="row justify-center">
-      <div class="card-column">
-        <figure class="card code-card">
-          <h2 class="card-header">Email</h2>
-          <div class="card-body">
+        <div className="card-container"></div>
+      <section className="row justify-center">
+      <div className="card-column">
+        <figure className="card code-card">
+          <h2 className="card-header">Email</h2>
+          <div className="card-body">
             <a href="laihchi@gmail.com">laihchi@gmail.com</a>
           </div>
         </figure>
       </div>
-      <div class="card-column">
-        <figure class="card code-card">
-          <h2 class="card-header">LinkedIn</h2>
-          <div class="card-body">
+      <div className="card-column">
+        <figure className="card code-card">
+          <h2 className="card-header">LinkedIn</h2>
+          <div className="card-body">
             <a href="https://www.linkedin.com/in/andy-lai-7a80b330/" target="_blank">Andy Lai</a>
           </div>
         </figure>
       </div>
-      <div class="card-column">
-        <figure class="card code-card">
-          <h2 class="card-header">Github</h2>
-          <div class="card-body">
+      <div className="card-column">
+        <figure className="card code-card">
+          <h2 className="card-header">Github</h2>
+          <div className="card-body">
             <a href="https://github.com/amurorai203" target="_blank">amurorai203</a>
           </div>
         </figure>
       </div>
-      <div class="card-column">
-        <figure class="card code-card">
-          <h2 class="card-header">CV</h2>
-          <div class="card-body">
+      <div className="card-column">
+        <figure className="card code-card">
+          <h2 className="card-header">CV</h2>
+          <div className="card-body">
             <a href="https://amurorai203.github.io/Portfolio/ref/CV_AndyLai.pdf" target="_blank"><img src="https://amurorai203.github.io/Bootstrap-Portfolio/images/cv.jpg"></img></a>
           </div>
 
@@ -44,7 +44,6 @@ function Contact(props) {
       </div> 
     </section>
 
-      </p>
       <Link to="contactform" role="button" className="btn btn-link">
         Contact More
       </Link>
