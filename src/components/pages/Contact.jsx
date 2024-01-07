@@ -37,7 +37,7 @@ function Contact(props) {
         <figure class="card code-card">
           <h2 class="card-header">CV</h2>
           <div class="card-body">
-            <a href="https://amurorai203.github.io/Portfolio/ref/CV_AndyLai.pdf" target="_blank"><img src="./assets/img/cv.jpg"></img></a>
+            <a href="https://amurorai203.github.io/Portfolio/ref/CV_AndyLai.pdf" target="_blank"><img src="https://amurorai203.github.io/Bootstrap-Portfolio/images/cv.jpg"></img></a>
           </div>
 
         </figure>

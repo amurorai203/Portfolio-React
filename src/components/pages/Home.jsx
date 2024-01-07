@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h1>Andy Lai</h1>
       <p>
-      <img src="./assets/img/Andy.jpg" class="myself-photo"></img>
+      <img src="https://amurorai203.github.io/Bootstrap-Portfolio/images/Andy.jpg" class="myself-photo"></img>
       <h4>Professional IT developer</h4>
       <p></p>
       <h5>          Hands on project management, business analysis and development experience mainly focused in Banking and Insurance industry. based in Hong Kong and implementing projects . 
