@@ -16,10 +16,10 @@ function App() {
       <Routes>
         {/* Define routes using the Route component to render different page components at different paths */}
         {/* Define a default route that will render the Home component */}
-        <Route path="Test-route/" element={<Home />} />
-        <Route path="Test-route/projects/" element={<Projects />} />
+        <Route path="Portfolio-React/" element={<Home />} />
+        <Route path="Portfolio-React/projects/" element={<Projects />} />
         {/* Define a route that will have descendant routes */}
-        <Route path="Test-route/contact/*" element={<Contact />} />
+        <Route path="Portfolio-React/contact/*" element={<Contact />} />
       </Routes>
       <footer>
     <div class="align-bottom">
