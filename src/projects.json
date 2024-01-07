@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Bootstrap-Portfolio",
+    "desc": "To build a Portfolio using Bootstrap CSS Framework",
+    "url": "https://amurorai203.github.io/Bootstrap-Portfolio/",
+    "github": "https://github.com/amurorai203/Bootstrap-Portfolio",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/BookStrap-Portfolio.jpg"
+  },
+  {
+    "id": 2,
+    "title": "PasswordGeneration",
+    "desc": "Javascript program to generate a random password based on user criteria entered",
+    "url": "https://amurorai203.github.io/PasswordGeneration/",
+    "github": "https://github.com/amurorai203/PasswordGeneration",
+    "screenshot": "https://amurorai203.github.io/PasswordGeneration/image/ScreenDump.jpg"
+  },
+  {
+    "id": 3,
+    "title": "QuizGame",
+    "desc": "A dynamically updated HTML and CSS powered by Javascript code with timer control and update user record into browser local storage",
+    "url": "https://amurorai203.github.io/QuizGame/",
+    "github": "https://github.com/amurorai203/QuizGame",
+    "screenshot": "https://amurorai203.github.io/QuizGame/assets/img/InitScreen.jpg"
+  },
+  {
+    "id": 4,
+    "title": "ProjectHandler",
+    "desc": "Javascript program triggering dayjs and dynamically updated HTML and CSS powered by jQuery",
+    "url": "https://amurorai203.github.io/ProjectHandler/",
+    "github": "https://github.com/amurorai203/ProjectHandler",
+    "screenshot": "https://amurorai203.github.io/ProjectHandler/assets/img/InitialScreen.jpg"
+  },
+  {
+    "id": 5,
+    "title": "WeatherReport",
+    "desc": "Javascipt program triggering openweathermap API and collect 5 day weather foecast information",
+    "url": "https://amurorai203.github.io/WeatherReport/",
+    "github": "https://github.com/amurorai203/WeatherReport",
+    "screenshot": "https://amurorai203.github.io/WeatherReport/assets/img/NewCityAdded.jpg"
+  },
+  {
+    "id": 6,
+    "title": "TeamProfileGenerator",
+    "desc": "Javascript program that used inquirer and jest to integrate and display results in a templated HTML",
+    "url": "https://amurorai203.github.io/TeamProfileGenerator/",
+    "github": "https://github.com/amurorai203/TeamProfileGenerator",
+    "screenshot": "https://amurorai203.github.io/TeamProfileGenerator/img/team.jpg"
+  }
+]
