@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 
+// Define the edX projects layout
 function ProjectCard(props) {
   return (
     <div className="card">

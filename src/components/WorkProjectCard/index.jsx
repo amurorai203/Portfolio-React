@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 
+// Define the ProjectCard layout as Work projects
 function WorkProjectCard(props) {
   return (
     <div className="card">

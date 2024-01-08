@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 
+// Define the InterestCard layout
 function InterestCard(props) {
   return (
     <div className="card">

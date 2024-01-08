@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
+// Define the Navbar items
 function Header() {
   return (
     <ul className="nav nav-tabs">
@@ -46,16 +47,6 @@ function Header() {
           Contact
         </NavLink>
       </li>
-      {/* <li className="nav-item">
-        <NavLink
-          to="contact/contactform"
-          className={({ isActive }) =>
-            isActive ? 'nav-link active' : 'nav-link'
-          }
-        >
-          ContactForm
-        </NavLink>
-      </li> */}
     </ul>
   );
 }

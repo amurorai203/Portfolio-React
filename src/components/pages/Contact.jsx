@@ -2,7 +2,8 @@ import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
 import ContactForm from './ContactForm';
 
-
+// Define with Contact information using card
+// Show the Contact form only when click 'Contact more' 
 function Contact(props) {
   return (
     <div className="contact">
@@ -13,7 +14,7 @@ function Contact(props) {
         <figure className="card code-card">
           <h3 className="card-header">Email</h3>
           <div className="card-body">
-            <a href="laihchi@gmail.com">laihchi@gmail.com</a>
+            <a href="mailto:laihchi@gmail.com">laihchi@gmail.com</a>
           </div>
         </figure>
       </div>
@@ -47,9 +48,7 @@ function Contact(props) {
       <Link to="contactform" role="button" className="btn btn-link">
         Contact More
       </Link>
-      {/* <Link to="contact" role="button" className="btn btn-link">
-        Contract Less
-      </Link> */}
+
       <Routes>
         <Route path="contactform" element={<ContactForm />} />
       </Routes>

@@ -3,11 +3,11 @@ import InterestCard from "../InterestCard";
 import Wrapper from '../Wrapper';
 import interestData from '../../interests.json';
 
+// Define the Interest objects to map thru json file
 function Interests() {
   const [interest, setInterest] = useState(interestData);
 
-
-  // Map over friends and render a FriendCard component for each friend object
+  // Map over interests and render a InterestCard component for each interest object
   return (
     <div>
     <h1 className="interest">Interests</h1>

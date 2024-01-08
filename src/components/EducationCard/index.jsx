@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 
+// Define the EducationCard layout
 function EducationCard(props) {
   return (
     <div className="card">

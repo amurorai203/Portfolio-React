@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+// Define the form textarea
+// No action defined at the moment
 function ContactForm() {
 
   const [formData, setFormData] = useState({

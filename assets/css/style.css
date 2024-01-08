@@ -212,15 +212,12 @@ footer {
   }
 }
 
+/* Define the css for home profile photo */
 .myself-photo {
   left: 10px;
   top: 50px;
   width: 150px;
   height: 150px;
-}
-
-.card-container{
-  background: #ECEFF1;
 }
 
 .profile h2{
@@ -233,6 +230,7 @@ footer {
   animation-iteration-count:1;
 }
 
+/* Define the animation effects to be used in profile */
 @keyframes fading {
   0% { opacity: 1; }
   100% { opacity: 0; }
@@ -246,3 +244,9 @@ footer {
     transform:rotate(360deg);
   }
 }
+
+/* Define the coloring in projects layout */
+.card-container{
+  background: #ECEFF1;
+}
+

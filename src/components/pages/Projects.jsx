@@ -5,11 +5,12 @@ import Wrapper from '../Wrapper';
 import projectData from '../../projects.json';
 import workProjectData from '../../workprojects.json';
 
+// Define the Project object to be map thru project json file
 function Projects() {
   const [project, setProject] = useState(projectData);
   const [workproject, setWorkProject] = useState(workProjectData);
 
-  // Map over friends and render a FriendCard component for each friend object
+  // Map over projects and render a ProjectCard component for each project object
   return (
     <div>
     <br></br>

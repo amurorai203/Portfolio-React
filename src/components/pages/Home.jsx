@@ -3,6 +3,7 @@ import EducationCard from "../EducationCard";
 import Wrapper from '../Wrapper';
 import educationData from '../../education.json';
 
+// Define the home profile showing basic information and education background
 function Home() {
   const [education, setEducation] = useState(educationData);
 
