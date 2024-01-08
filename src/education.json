@@ -3,21 +3,21 @@
     "id": 1,
     "title": "edX",
     "desc": "16-week intensive program focusing on HTML5, CSS3, JavaScript, jQuery, React.js, ES6, Node with UX design, build and deploy modern web applications",
-    "url": "https://amurorai203.github.io/Bootstrap-Portfolio/",
-    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/BookStrap-Portfolio.jpg"
+    "url": "https://www.edx.org/boot-camps/coding/skills-bootcamp-in-front-end-web-development",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/edX.jpg"
   },
   {
     "id": 2,
     "title": "MScIT",
-    "desc": "Javascript program to generate a random password based on user criteria entered",
-    "url": "https://amurorai203.github.io/PasswordGeneration/",
-    "screenshot": "https://amurorai203.github.io/PasswordGeneration/image/ScreenDump.jpg"
+    "desc": "Awarded Distinction in Master of Science in Information Technology from Polytechic University in Hong Kong",
+    "url": "https://www.polyu.edu.hk/comp/study/taught-postgraduate-programme/mscit",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/polyu-2.png"
   },
   {
     "id": 3,
     "title": "BSc",
-    "desc": "Javascript program to generate a random password based on user criteria entered",
-    "url": "https://amurorai203.github.io/PasswordGeneration/",
-    "screenshot": "https://amurorai203.github.io/PasswordGeneration/image/ScreenDump.jpg"
+    "desc": "A Bachelor degree provided from Hong Kong Chinese University. Major in Physics and Minor in Computer Science",
+    "url": "https://www.sci.cuhk.edu.hk/en-gb/academic/ug/prog/phys",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/cuhk-2.png"
   }
 ]
