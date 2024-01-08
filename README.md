@@ -1,12 +1,12 @@
-# Profile using react
-Bootcamp Challenge 13 to use react to develop my own Portfolio.
+# Portfolio using React
+Bootcamp Challenge 13 to use React to develop my own Portfolio.
 
 ## Description
 
 This is a JavaScript program to: 
-1) Use react route to build navbar.
-2) Dynamcically generate Projects, Interests.
-3) Build the home profile and contact infomation. 
+1) Use React route to build navbar.
+2) Build the home profile and contact infomation. 
+3) Dynamcically generate Projects, Interests.
 
 ## Installation
 
