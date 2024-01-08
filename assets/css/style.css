@@ -222,3 +222,26 @@ footer {
 .card-container{
   background: #ECEFF1;
 }
+
+.profile h4{
+  animation: fading 5s infinite;
+}
+
+.profile h5{
+  animation:spin 8s;
+  animation-iteration-count:1;
+}
+
+@keyframes fading {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes spin {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+}

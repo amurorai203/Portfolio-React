@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "edX",
+    "desc": "16-week intensive program focusing on HTML5, CSS3, JavaScript, jQuery, React.js, ES6, Node with UX design, build and deploy modern web applications",
+    "url": "https://amurorai203.github.io/Bootstrap-Portfolio/",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/BookStrap-Portfolio.jpg"
+  },
+  {
+    "id": 2,
+    "title": "MScIT",
+    "desc": "Javascript program to generate a random password based on user criteria entered",
+    "url": "https://amurorai203.github.io/PasswordGeneration/",
+    "screenshot": "https://amurorai203.github.io/PasswordGeneration/image/ScreenDump.jpg"
+  },
+  {
+    "id": 3,
+    "title": "BSc",
+    "desc": "Javascript program to generate a random password based on user criteria entered",
+    "url": "https://amurorai203.github.io/PasswordGeneration/",
+    "screenshot": "https://amurorai203.github.io/PasswordGeneration/image/ScreenDump.jpg"
+  }
+]

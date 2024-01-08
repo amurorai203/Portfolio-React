@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Unreal Engine",
+    "desc": "Interest to build a VR game with 3D viewing device for RPG and integrate with 3D Models",
+    "url": "https://www.unrealengine.com/en-US/xr",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/gundam_rx78_world.png"
+  },
+  {
+    "id": 2,
+    "title": "3D",
+    "desc": "Using device like Intel realsense 3D camera to model 3d objects",
+    "url": "https://amurorai203.github.io/Bootstrap-Portfolio/ref/hand.obj.pdf",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/work-3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "AI neuro network",
+    "desc": "My MScIT program in AI",
+    "url": "https://amurorai203.github.io/Bootstrap-Portfolio/ref/MScIT-sample.html",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/work-2.jpg"
+  }
+]

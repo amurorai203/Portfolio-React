@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "CUB",
+    "desc": "Manage, analyze and implement Actimize(CDD, WLF and SAM modules) as the anti-money laundering and fraud detection solution with the Vendor, compliance and operation team within the bank.",
+    "desc2": "",
+    "screenshot": "https://amurorai203.github.io/Bootstrap-Portfolio/images/BookStrap-Portfolio.jpg"
+  },
+  {
+    "id": 2,
+    "title": "UBS",
+    "desc": " implement rules in Investment Suitability Engine Client Order systems in UBS meeting with latest regulatory requirements.",
+    "desc2": "Work out detail business specifications with subject matter experts on products life cycles. Implement software with developers based on technical specifications.",
+    "screenshot": "https://amurorai203.github.io/PasswordGeneration/image/ScreenDump.jpg"
+  },
+  {
+    "id": 3,
+    "title": "HSBC",
+    "desc": "Lead the team to build a new data warehouse system sourcing both client static, position and transaction information from a legacy AS400 system into Oracle, which served as the data warehouse for HSBC Group.",
+    "desc2": "",
+    "screenshot": "https://amurorai203.github.io/QuizGame/assets/img/InitScreen.jpg"
+  },
+  {
+    "id": 4,
+    "title": "AIA",
+    "desc": "Lead frontend team to manage gaps and new requirements during replacement project in backend legacy core system. Develop a generic tools for regression testing covering different platforms.",
+    "desc2": "Develop and rollout Policy Owner Services system to different regions. Working with Vendors and local developers.",
+    "screenshot": "https://amurorai203.github.io/ProjectHandler/assets/img/InitialScreen.jpg"
+  }
+]
