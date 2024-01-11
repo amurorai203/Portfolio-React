@@ -12,15 +12,28 @@ function ContactForm() {
 
   const form = useRef();
 
+  const clearEMailForm = () => {
+    form.current.user_name.value = "";
+    form.current.user_email.value = "";
+    form.current.message.value = "";
+  }
+
   const sendEmail = (e) => {
     e.preventDefault();
-console.log(form.current);
+    if (form.current.user_email.value !== ""){
+// console.log(form.current);
     emailjs.sendForm('service_9qq2dg8', 'template_andygithub', form.current, 'Ei3GDuHjFYeoP0UEZ')
       .then((result) => {
           console.log(result.text);
+          alert("Email sent.");
+          clearEMailForm();
       }, (error) => {
           console.log(error.text);
+          alert("EMail sending error.");
       });
+    } else {
+      alert("Please input with your email address");
+    }
   };
 
   // const handleInputChange = (event) => {
