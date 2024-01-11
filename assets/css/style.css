@@ -250,3 +250,6 @@ footer {
   background: #ECEFF1;
 }
 
+.contact-form .message-text{
+  width: 300%;
+}
